@@ -1,6 +1,6 @@
 # node-js-jwt-auth-mongodb
 
-## This a mern stack ucer authenticaton and authorization simple web page
+## This is a mern stack ucer authenticaton and authorization simple web page
 
 # Stacks 
 
